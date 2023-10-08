@@ -1,1 +1,1 @@
-# Collecting_numbers_on_3D_array
+# It's just a fun script with NumPy
